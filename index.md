@@ -9,7 +9,7 @@ permalink: /
   <p>{{ page.bio }}</p>
   <ul>
     <li>Email: <a href="mailto:lekshmikrishnakm@gmail.com">Email</a></li>
-    <li>Location: {{ page.Alappuzha }}</li>
+    <li>Location: {{ page.location }}</li>
   </ul>
 </div>
 
