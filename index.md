@@ -20,7 +20,7 @@ permalink: /
       <h3>IoT-Based Smart Mirror</h3>
       <p>An IoT-based semi-electronic display device that detects the user's emotions using facial and voice recognition. Features include fall prediction and a chatbot for simple conversations.</p>
       <ul>
-        <li>Technologies: IoT, Facial Recognition, Voice Recognition, Python</li>
+        <li>Technologies: IoT, Facial Recognition, Voice Recognition,Fall Detection Python</li>
       </ul>
     </li>
     <li>
@@ -39,7 +39,6 @@ permalink: /
     <li>
       <h3>Bachelor of Technology in Computer Science and Engineering</h3>
       <ul>
-        <li>CGPA: 6.51</li>
         <li>College: College of Engineering and Management Punnapra</li>
         <li>University: APJ Abdul Kalam Technological University</li>
       </ul>
@@ -81,6 +80,5 @@ permalink: /
     <li>
       <a href="https://www.linkedin.com/in/lekshmikrishna-k-m-883860275/">LinkedIn</a>
     </li>
-    <li><a href="mailto:lekshmikrishnakm017@gmail.com">Email</a></li>
   </ul>
 </div>
