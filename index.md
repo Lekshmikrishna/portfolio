@@ -6,10 +6,10 @@ permalink: /
 
 <div class="homepage-text">
   <h1>LEKSHMIKRISHNA K M</h1>
-  <p>{{ page.bio }}</p>
+  <p>{{ site.bio }}</p>
   <ul>
     <li>Email: <a href="mailto:lekshmikrishnakm017@gmail.com">Email</a></li>
-    <li>Location: {{ page.location }}</li>
+    <li>Location: {{ site.location }}</li>
   </ul>
 </div>
 
