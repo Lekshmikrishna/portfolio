@@ -8,7 +8,7 @@ permalink: /
   <h1>LEKSHMIKRISHNA K M</h1>
   <p>{{ page.bio }}</p>
   <ul>
-    <li>Email: <a href="mailto:lekshmikrishnakm@gmail.com">Email</a></li>
+    <li>Email: <a href="mailto:lekshmikrishnakm017@gmail.com">Email</a></li>
     <li>Location: {{ page.location }}</li>
   </ul>
 </div>
@@ -81,6 +81,6 @@ permalink: /
     <li>
       <a href="https://www.linkedin.com/in/lekshmikrishna-k-m-883860275/">LinkedIn</a>
     </li>
-    <li><a href="mailto:lekshmikrishnakm@gmail.com">Email</a></li>
+    <li><a href="mailto:lekshmikrishnakm017@gmail.com">Email</a></li>
   </ul>
 </div>
