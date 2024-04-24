@@ -8,7 +8,7 @@ permalink: /
   <h1>LEKSHMIKRISHNA K M</h1>
   <p>{{ site.bio }}</p>
   <ul>
-    <li>Email: <a href="mailto:lekshmikrishnakm017@gmail.com">Email</a></li>
+    <li>Email: <a href="mailto:lekshmikrishnakm017@gmail.com">lekshmikrishnakm017@gmail.com</a></li>
     <li>Location: {{ site.location }}</li>
   </ul>
 </div>
